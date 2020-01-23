@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment1.params=
+comment1.target=int\ findTotal()
+comment2.params=
+comment2.target=double\ findPercent()
+comment3.params=
+comment3.target=java.lang.String\ findResult()
+comment4.params=
+comment4.target=char\ findGrade()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

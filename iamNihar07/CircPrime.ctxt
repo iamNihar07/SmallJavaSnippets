@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CircPrime()
+comment1.params=
+comment1.target=boolean\ input()
+comment2.params=
+comment2.target=void\ checkCirc()
+comment3.params=ctr
+comment3.target=boolean\ rearrange(int)
+comment4.params=
+comment4.target=boolean\ checkPrime()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

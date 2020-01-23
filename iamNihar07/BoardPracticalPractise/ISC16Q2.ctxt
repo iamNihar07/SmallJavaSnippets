@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=ISC16Q2(int)
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ rearrange()
+comment4.params=
+comment4.target=void\ rearrangedDisplay()
+comment5.params=
+comment5.target=void\ sumOfDiagonals()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

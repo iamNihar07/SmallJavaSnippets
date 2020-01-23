@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=M
+comment0.target=ISC13Q2(int)
+comment1.params=
+comment1.target=void\ input()
+comment2.params=z
+comment2.target=void\ display(int[][])
+comment3.params=
+comment3.target=void\ mirror()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

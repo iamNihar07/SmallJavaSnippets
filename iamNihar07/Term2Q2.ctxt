@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=m\ n
+comment0.target=Term2Q2(int,\ int)
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=int\ sort()
+comment4.params=
+comment4.target=void\ fashiond()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

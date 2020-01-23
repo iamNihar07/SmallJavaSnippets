@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment0.text=WAP\ to\ calc\ and\ display\ the\ salary\ of\ an\ employee\ whose\ basic\ pay\ is\ 15k\ rs.\ The\ sal\ is\ \r\ncalculated\ as\ follows\ -\r\ngross\ pay\ \=\ net\ pay\ -\ pf\r\nnet\ pay\ \=\ basic\ +\ da\ +\ hra\r\nda\=110%\ of\ basic\r\nhra\=33%\ of\ basic\r\npf\=12%\ of\ basic\r\n
+numComments=1

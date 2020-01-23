@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=n1
+comment1.target=void\ pallindrome(int)
+comment2.params=n1
+comment2.target=void\ prime(int)
+comment3.params=n1
+comment3.target=void\ armstrong(int)
+numComments=4

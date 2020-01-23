@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment1.params=x
+comment1.target=boolean\ isPrime(int)
+comment2.params=x
+comment2.target=boolean\ isPallindrome(int)
+comment3.params=
+comment3.target=void\ checkPalPrime()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

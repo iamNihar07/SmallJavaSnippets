@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=sourcefile
+comment1.target=void\ display(java.lang.String)
+comment2.params=sourcefile\ targetfile
+comment2.target=void\ copy(java.lang.String,\ java.lang.String)
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ constructor()
+comment1.params=
+comment1.target=void\ welcome()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ players()
+comment4.params=
+comment4.target=void\ instruction()
+comment5.params=
+comment5.target=void\ play()
+comment6.params=
+comment6.target=void\ processing()
+comment7.params=
+comment7.target=void\ plaq()
+comment8.params=
+comment8.target=void\ design()
+comment9.params=
+comment9.target=void\ main()
+numComments=10

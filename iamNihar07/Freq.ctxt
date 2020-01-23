@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Freq()
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ fillArray()
+comment3.params=
+comment3.target=void\ frq()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ main()
+comment6.params=
+comment6.target=void\ alphabetical()
+comment7.params=
+comment7.target=void\ number()
+numComments=8

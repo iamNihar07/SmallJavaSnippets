@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Const3()
+comment1.params=x\ y
+comment1.target=Const3(int,\ int)
+comment2.params=z
+comment2.target=Const3(int)
+comment3.params=
+comment3.target=void\ disp()
+numComments=4

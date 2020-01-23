@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=ISC14Q2(int)
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ checkSym()
+comment4.params=
+comment4.target=void\ sumLD()
+comment5.params=
+comment5.target=void\ sumRD()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

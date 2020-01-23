@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=m\ n
+comment0.target=Q1_2015(int,\ int)
+comment1.params=
+comment1.target=int\ findSmallest()
+comment2.params=t
+comment2.target=int\ sumOfDg(int)
+comment3.params=x
+comment3.target=int\ ndg(int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

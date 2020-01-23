@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment1.params=str
+comment1.target=java.lang.String\ isPallin(java.lang.String)
+comment2.params=no
+comment2.target=int\ isPalin(int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

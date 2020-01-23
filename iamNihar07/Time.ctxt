@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Time()
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=t
+comment3.target=Time\ addTime(Time)
+comment3.text=\#void\ addTime(Time\ t)\ //First\ version\ -\ local\ object\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ Time\ added\=new\ Time();\r\n\ \ \ \ \ \ \ \ added.h\=h\ +\ t.h;\r\n\ \ \ \ \ \ \ \ added.m\=m\ +\ t.m;\r\n\ \ \ \ \ \ \ \ if(added.m>\=60)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ added.h++;\r\n\ \ \ \ \ \ \ \ \ \ \ \ added.m\=added.m-60;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ added.display();\r\n}
+comment4.params=tm1\ tm2
+comment4.target=Time\ addTime(Time,\ Time)
+comment5.params=
+comment5.target=void\ main()
+numComments=6
